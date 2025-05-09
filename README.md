@@ -53,8 +53,3 @@ This is a console-based **Employee Management System** written in C++. It allows
 
 ---
 
-##  How to Run
-
-1. Compile the program:
-   ```bash
-   g++ -o employee_system finnal_employee.cpp
